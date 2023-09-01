@@ -58,7 +58,7 @@
 <p align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sondos mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="sondos mohamed" /> </p>
 <hr>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmouddwidar&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="mahmouddwidar" />   
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sondos mohamed&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="sondos mohamed" />   
 <h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35"> Github Stats </h2>
 
 <p align="center">
@@ -66,9 +66,9 @@
 </p>
 
 <p align="center">      
-<a href="https://github.com/mahmouddwidar">
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mahmouddwidar&show_icons=true&theme=gruvbox&hide_border=true" />
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmouddwidar&theme=gruvbox&hide_border=true" />
+<a href="https://github.com/sondosmohamed8988">
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sondosmohamed&show_icons=true&theme=gruvbox&hide_border=true" />
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sondos mohamed&theme=gruvbox&hide_border=true" />
 </a>
 </p>
 
