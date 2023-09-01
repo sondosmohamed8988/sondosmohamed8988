@@ -1,13 +1,10 @@
 <h1 align="center">Hi, I'm Sondos Mohamed</h1><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+To+My+GitHub+Profile" alt="Typing SVG" /></a>
+</p>
+
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-
-
-[![Linkedin: sondos ](https://www.linkedin.com/in/sondos-mohamed-4b615222b/=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sondos-mohamed-4b615222b//)](https://www.linkedin.com/in/sondos-mohamed-4b615222b/)
-
-
-
-
 
 
 
