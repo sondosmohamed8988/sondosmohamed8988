@@ -51,6 +51,15 @@
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
+
+<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sondos-mohamed-4b615222b/" target='_blank'><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a> 
+<a href="sondosmabdelnaser@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me via Gmail"/></a>
+
+<p align="center">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sondos mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="sondos mohamed" /> </p>
 <hr>
     
 <h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35"> Github Stats </h2>
@@ -73,8 +82,8 @@
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mahmoud-dwidar-2000/" target='_blank'><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a> 
-<a href="mailto:mahmouddwidar23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me via Gmail"/></a>
+<a href="https://www.linkedin.com/in/sondos-mohamed-4b615222b/" target='_blank'><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a> 
+<a href="sondosmabdelnaser@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me via Gmail"/></a>
 
 <p align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmouddwidar&label=Profile%20views&color=0e75b6&style=flat" alt="mahmouddwidar" /> </p>
