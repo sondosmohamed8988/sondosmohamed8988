@@ -65,8 +65,8 @@
 
 <p align="center">      
 <a href="https://github.com/sondosmohamed8988">
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mahmouddwidar&show_icons=true&theme=gruvbox&hide_border=true" />
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmouddwidar&theme=gruvbox&hide_border=true" />
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sondosmohamed8988&show_icons=true&theme=gruvbox&hide_border=true" />
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sondosmohamed8988&theme=gruvbox&hide_border=true" /
 </a>
 </p>
 
