@@ -55,25 +55,27 @@
 <a href="https://www.linkedin.com/in/sondos-mohamed-4b615222b/" target='_blank'><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a> 
 <a href="sondosmabdelnaser@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me via Gmail"/></a>
 
-<p align="center">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sondos mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="sondos mohamed" /> </p>
 <hr>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sondos mohamed&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="sondos mohamed" />   
+    
 <h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35"> Github Stats </h2>
 
 <p align="center">
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sondosmohamed8988&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="sondosmohamed8988" />
 </p>
 
 <p align="center">      
 <a href="https://github.com/sondosmohamed8988">
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sondosmohamed&show_icons=true&theme=gruvbox&hide_border=true" />
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sondos mohamed&theme=gruvbox&hide_border=true" />
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mahmouddwidar&show_icons=true&theme=gruvbox&hide_border=true" />
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmouddwidar&theme=gruvbox&hide_border=true" />
 </a>
 </p>
 
 
 <hr>
+
+
+
+
 
 
 
